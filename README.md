@@ -1,5 +1,11 @@
 <h1 align="center"><b>Hola, Soy Matias Barrale</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h4 align="center">Visitas :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Barralecode22}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h1>Sobre mí</h1>
+
 - 📝 Actualmente realizo sitios web con Html, Css y Javascript.
 
 - 🌱 También soy diseñador gráfico y me especializo en el area de Diseño web y Desarrollo web.
