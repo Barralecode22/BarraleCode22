@@ -6,7 +6,7 @@
 
 <h1>Sobre mí</h1>
 
-- 📝 Actualmente realizo sitios web con Html, Css y Javascript.
+- 📝 Actualmente realizo sitios web con Html, Css, Javascript y React js.
 
 - 🌱 También soy diseñador gráfico y me especializo en el area de Diseño web y Desarrollo web.
 
